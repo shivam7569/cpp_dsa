@@ -11,10 +11,20 @@ int main() {
     while (i <= n) {
         int j = i;
         while (j >= 1) {
-            cout << j << ' ';
+            cout << j;
             j--;
         }
         cout << endl;
         i++;
     }
 }
+
+/*
+
+1 
+21 
+321 
+4321 
+54321
+
+*/

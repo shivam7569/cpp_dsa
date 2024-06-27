@@ -20,3 +20,13 @@ int main() {
         i++;
     }
 }
+
+/*
+
+A
+BC
+CDE
+DEFG
+EFGHI
+
+*/

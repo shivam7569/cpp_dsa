@@ -11,10 +11,18 @@ int main() {
     while (i <= n*n) {
         int j = 0;
         while (j < n) {
-            cout << i << ' ';
+            cout << i;
             i++;
             j++;
         }
         cout << endl;
     }
 }
+
+/*
+
+123
+456
+789
+
+*/

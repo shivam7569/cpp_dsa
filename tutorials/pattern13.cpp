@@ -19,5 +19,14 @@ int main() {
         cout << endl;
         i++;
     }
-
 }
+
+/*
+
+ABCDE
+BCDEF
+CDEFG
+DEFGH
+EFGHI
+
+*/

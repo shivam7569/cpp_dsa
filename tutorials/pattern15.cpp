@@ -19,3 +19,13 @@ int main() {
         i++;
     }
 }
+
+/*
+
+A
+BC
+DEF
+GHIJ
+KLMNO
+
+*/

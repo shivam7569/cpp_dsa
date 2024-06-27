@@ -21,3 +21,13 @@ int main() {
         i--;
     }
 }
+
+/*
+
+E
+DE
+CDE
+BCDE
+ABCDE
+
+*/
